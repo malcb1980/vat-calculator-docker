@@ -1,0 +1,2 @@
+image: malcb80/vat:<+pipeline.sequenceId>
+replicas: 1
